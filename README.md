@@ -3,5 +3,6 @@
 - Parallel Computing Toolbox
 - MATLAB Parallel Server
 - Polyspace Bug Finder
+- MATLAB Tensor Toolbox
 
 Run the `handler' file.
