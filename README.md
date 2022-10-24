@@ -3,3 +3,5 @@
 - Parallel Computing Toolbox
 - MATLAB Parallel Server
 - Polyspace Bug Finder
+
+Run the `handler' file.
